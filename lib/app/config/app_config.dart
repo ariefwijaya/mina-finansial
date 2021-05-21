@@ -5,27 +5,12 @@ import '../config/themes.dart';
 
 /// APP Configuration. Can be customized.
 class AppConfig {
-  static const String appName = "Ecommerce";
+  static const String appName = "Mina Finansial";
   /// Optional Variable for development environment 
   /// `false` = production
   static const ENV_DEBUGGING = true; //false = production
   /// Default: `true`. disable this to hide any log
-  static const ENABLE_LOGGING = true;
-
-  /// base URL for Restful API
-  static String get baseUrl {
-    if (ENV_DEBUGGING) {
-      return "http://ws.mytimor.tl/mytimor_api_dev/api/mobile/merchant";
-    } else {
-      return "http://ws.mytimor.tl/mytimor_api/v2/api/mobile/merchant";
-    }
-  }
-
-  ///Endpoint api server to collect error/crash log in application
-  static String get logsServerUrl => baseUrl + "/logCatcher";
-
-  static const int connectTimeout = 20000; //milisecond
-  static const int receiveTimeout = 15000;
+  static const ENABLE_LOGGING = false;
 
   /// Default Languages to be used
   static final LanguageModel defaultLanguage = supportedLanguageList[1];
