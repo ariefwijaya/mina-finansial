@@ -4,6 +4,12 @@ Speed Code Aplikasi Dev Test - Study Case: Mina Finansial + CRUD
 
 ![Mina Finansial](https://i.imgur.com/bSngV2A.png)
 
+## Results and Demo in Flutter (1 Day Development)
+Demo (.GIF) |Home Screen            |  Add Tranasctions
+:-------------------------:|:-------------------------:|:-------------------------:
+![Mina Finansial](https://s3.gifyu.com/images/mina_finansial.gif)|![Mina Finansial](https://i.imgur.com/z4iELvc.png)  |  ![Mina Finansial](https://i.imgur.com/RJmmKQh.png)
+
+
 ### Notes
 Pada Apps sederhana kali ini, *Layer Repository* tidak digunakan untuk mempercepat proses development, terlebih apps ini hanya memiliki akses ke local storage saja dan tidak membutuhkan interface ke Backend (Server). 
 
