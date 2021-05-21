@@ -7,7 +7,7 @@ Speed Code Aplikasi Dev Test - Study Case: Mina Finansial + CRUD
 ## Results and Demo in Flutter (1 Day Development)
 Demo (.GIF) |Home Screen            |  Add Tranasctions
 :-------------------------:|:-------------------------:|:-------------------------:
-![Mina Finansial](https://s3.gifyu.com/images/mina_finansial.gif)|![Mina Finansial](https://i.imgur.com/z4iELvc.png)  |  ![Mina Finansial](https://i.imgur.com/RJmmKQh.png)
+![Mina Finansial](https://s3.gifyu.com/images/mina_finansial.gif)|![Mina Finansial](https://i.imgur.com/KBgv55F.png)  |  ![Mina Finansial](https://i.imgur.com/RJmmKQh.png)
 
 
 ### Notes
