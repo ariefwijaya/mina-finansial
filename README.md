@@ -4,11 +4,17 @@ Speed Code Aplikasi Dev Test - Study Case: Mina Finansial + CRUD
 
 ![Mina Finansial](https://i.imgur.com/bSngV2A.png)
 
+- **PWA Version**: [View Demo](https://ariefwijaya.github.io/mina-finansial-web/)
+- **PWA Repository**: [View Repository](https://github.com/ariefwijaya/mina-finansial-web)
+
 ## Results and Demo in Flutter (1 Day Development)
 Demo (.GIF) |Home Screen            |  Add Tranasctions
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Mina Finansial](https://s3.gifyu.com/images/mina_finansial.gif)|![Mina Finansial](https://i.imgur.com/KBgv55F.png)  |  ![Mina Finansial](https://i.imgur.com/RJmmKQh.png)
 
+## Result in PWA Version *(built directly using Flutter)*
+![Mina Finansial Web #1](https://i.imgur.com/zQJBnoO.png)
+![Mina Finansial Web #2](https://i.imgur.com/amSHoKU.png)
 
 ### Notes
 Pada Apps sederhana kali ini, *Layer Repository* tidak digunakan untuk mempercepat proses development, terlebih apps ini hanya memiliki akses ke local storage saja dan tidak membutuhkan interface ke Backend (Server). 
